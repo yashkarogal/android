@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Myfirstapp</string>
+    <string name="txt_view_content">C</string>
+    <string name="txt_btn_open_bracket">(</string>
+</resources>
